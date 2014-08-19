@@ -1,0 +1,20 @@
+# Ignore MATLAB backup and generated binary files
+*.asv
+*.mat
+
+# Ignore images
+*.tif
+*.tiff
+*.png
+*.jpeg
+*.jpg
+
+# Ignore text editor backup files
+*~
+
+# Ignore matlab error log files
+*.log
+
+# Ignore database summary files and other generated files
+Thumbs.db
+
